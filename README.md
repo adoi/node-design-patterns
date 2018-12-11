@@ -13,9 +13,9 @@ The following have been implemented in this repo:
 
 | Creational    | Structural    | Behavioral  |
 | ------------- |:-------------:| :-----:     |
-| Factory       |               |             |
-| Singleton     |               |             |
-| Builder       |               |             |
+| Factory       | Proxy         | Observer    |
+| Singleton     | Adapter       | Strategy    |
+| Builder       | Decorator     | Iterator    |
 | Prototype     |               |             |
 
 ---

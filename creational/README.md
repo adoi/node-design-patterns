@@ -7,5 +7,5 @@ Creational Design Patterns basically provide us clearner ways to do object creat
 Creational Design Patterns implemented in this repo: 
 1. Factory
 2. Singleton
-3. Prototype (to be implemented)
+3. Prototype
 4. Builder
