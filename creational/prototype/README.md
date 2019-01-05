@@ -5,3 +5,7 @@ The Prototype Design Pattern is a creational pattern used to instantiate (create
 The pattern might be used when having to perform database operations to create an object because we clone the object instead of creating a new one. The object in our case are created by reference. 
 
 In our example we take advantage of Javascript's `Object.create()` method which provides us a way to clone the prototype and create the new instance with its properties.
+
+You can easily see the example working following these steps: 
+1. `cd creational/prototype/`
+2. `node index`

@@ -9,3 +9,7 @@ We have to be careful when we say that we are implementing the Singleton Design 
 The Singleton Pattern *does not exist* in Node.js if we have two or more different packages that each contain their node_modules folder. The specified packages load two different instances of our Singleton.
 
 Note: there is a way of having a Singleton shared across the entire application by using a global variable to store it. We can do this by using `global.db = new Singleton('demo')`. Please note that this is a practice to avoid at all costs.
+
+You can easily see the example working following these steps: 
+1. `cd creational/singleton/`
+2. `node index`
